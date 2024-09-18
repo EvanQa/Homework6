@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aec6ad7c-2863-4e59-9a94-4e5da3aabff6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="aec6ad7c-2863-4e59-9a94-4e5da3aabff6" name="Changes" comment="#c">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise2.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise2.5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercise2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercise3.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise3.1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercise3.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise3.2.py" afterDir="false" />
@@ -30,18 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "EvanQa"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;EvanQa&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/EvanQa/HomeworkN6.git",
-    "accountId": "8116fb9d-0ebd-4413-b9bd-bf94151bce83"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/EvanQa/HomeworkN6.git&quot;,
+    &quot;accountId&quot;: &quot;8116fb9d-0ebd-4413-b9bd-bf94151bce83&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -51,19 +49,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Exercise1.executor": "Run",
-    "Python.Exercise2.5.executor": "Run",
-    "Python.Exercise2.executor": "Run",
-    "Python.Exercise3.1.executor": "Run",
-    "Python.Exercise3.2.executor": "Run",
-    "Python.Exercise4.executor": "Run",
-    "Python.Exercise5.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Exercise1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise2.5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise3.1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise3.2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise5.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Exercise1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Homework6" />
@@ -104,6 +102,19 @@
       <option name="presentableId" value="Default" />
       <updated>1726512925853</updated>
     </task>
+    <task id="LOCAL-00001" summary="#c">
+      <option name="closed" value="true" />
+      <created>1726665498479</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726665498479</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#c" />
+    <option name="LAST_COMMIT_MESSAGE" value="#c" />
   </component>
 </project>
